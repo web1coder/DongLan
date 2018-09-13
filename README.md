@@ -1,6 +1,6 @@
-# bisligcity
-system objects solutions
-Donglan Advice about Visual Basic Loading Problem (09-13-2018)
+# donglan
+System Objects Solutions
+Visual Basic Loading Problem (09-13-2018)
 
 Problem when loading vb6..
 “User-defined type not defined” error in VB 6 under Windows 7
