@@ -1,5 +1,5 @@
 # VB6 Objects Reference
-System Objects Solutions
+System Objects Solutions.
 Visual Basic Loading Problem by DongLan (09-13-2018 Bislig City, Philippines)
 
 Problem when loading vb6..
