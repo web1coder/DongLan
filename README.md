@@ -1,6 +1,6 @@
 # VB6 Objects Reference
 System Objects Solutions
-Visual Basic Loading Problem (09-13-2018)
+Visual Basic Loading Problem by DongLan (09-13-2018 Bislig City, Philippines)
 
 Problem when loading vb6..
 “User-defined type not defined” error in VB 6 under Windows 7
