@@ -4,6 +4,8 @@ Donglan Advice about Visual Basic Loading Problem (09-13-2018)
 
 Problem when loading vb6..
 “User-defined type not defined” error in VB 6 under Windows 7
+"Object not registered" When clicking Apply and Ok button in Project/components/controls
+
 If your visual basic project (ver.6.0) still have a problem using Windows 7 OS and above. You can fix it by:
 
 1. Click Start Menu and search cmd 
