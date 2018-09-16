@@ -13,5 +13,6 @@ Click Stop button then OK to stop the windows update service.
 2. Go back to Services.msc and scroll down again, select and double click Background Intelegent Transfer Service 
 click Stop and the OK button.
 
-3. After that go to C:\Windows\SoftwareDistribution folder and delete everthing inside the DataStore and Download folder. (Run as Administrator to delete these files)
+3. After that go to C:\Windows\SoftwareDistribution folder and delete everything inside the DataStore and Download folder. 
+(Run as Administrator to delete these files)
 Good Luck!
