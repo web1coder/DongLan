@@ -1,4 +1,5 @@
 ”Failure Configuring Windows Updates” Issue
+
 When auto updater is turned on, windows will automatically installs updates on your computer. 
 You may get stuck with an error on your screen with message "Failure configuring Windows updates, Reverting changes, 
 Do not turn off your computer".
