@@ -1,0 +1,10 @@
+”Failure Configuring Windows Updates” Issue
+When auto updater is turned on, windows will automatically installs updates on your computer. You may get stuck with an error on your screen with message "Failure configuring Windows updates, Reverting changes, Do not turn off your computer".
+If you are facing this issue, your computer will normally take 20-30 minutes to revert the changes. Follow these few steps resolve your problem.
+1. Delete Windows Update cache: Click Start menu then search box type in Services.msc and press Enter key. Scroll down until find Windows Update.
+double click on it and windows update dialog box will appear. Click Stop button then OK to stop the windows update service.
+
+2. Go back to Services.msc and scroll down again, select and double click Background Intelegent Transfer Service click Stop and the OK button.
+
+3. After that go to C:\Windows\SoftwareDistribution folder and delete everthing inside the DataStore and Download folder. (Run as Administrator to delete these files)
+Good Luck!
