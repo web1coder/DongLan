@@ -7,7 +7,7 @@ If you are facing this issue, your computer will normally takes 20-30 minutes or
 And you will feel unhappy waiting for several hours to start working with your computer. 
 Follow these few steps resolve your problem.
 
-1. Delete Windows Update cache: Click Start menu then search box type in Services.msc and press Enter key. 
+1. Delete Windows Update cache: Click Start menu then on search box, type in Services.msc and press Enter key. 
 On the dialogue box Scroll down until find Windows Update. Double click on it and windows update dialog box will appear. 
 Click Stop button then OK to stop the windows update service.
 
